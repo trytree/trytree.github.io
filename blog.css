@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fdd000;
   font-variant-position: sub;
 }
-.blog > p{
+.blog p{
   font-family: cousine;
   font-size: 12px;
   text-align: justify;
@@ -172,4 +172,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog li {
   margin-bottom: 10px;
+}
+.blog-list p{
+  margin-bottom: 0px;
+}
+.blog-list a{
+  font-family: cousine;
+  font-size: 12px;
+  text-decoration: underline;
 }
